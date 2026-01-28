@@ -13,4 +13,4 @@ Control reverb, delay levels, filter frequency, volume and mutes across tracks 9
   
   
 #  
-V1.0, 10-2025 
+V1.1, 28-01-2026 
