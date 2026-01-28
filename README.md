@@ -1,5 +1,10 @@
 # Novation Launch Control XL3 - Digitakt II Mappings
 
+![Version](https://img.shields.io/github/v/tag/techronmic/Digitakt-II_NLCXL3?label=version)
+![Downloads](https://img.shields.io/github/downloads/techronmic/Digitakt-II_NLCXL3/total)
+![License](https://img.shields.io/github/license/techronmic/Digitakt-II_NLCXL3)
+![Stars](https://img.shields.io/github/stars/techronmic/n3ofetch?style=social)
+
 ## This Pack includes 3 Custom Mappings for Elektron Digitakt II
 
 ## Digitakt II Drum  
