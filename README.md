@@ -3,7 +3,7 @@
 
 ## Digitakt II Drum  
 Control tune, overdrive, amp decay, volume and mutes across tracks 1-8  
-Track names: Kick, Snare, Clap, Hi Hat, Closed Hat, Open Hat, Ride, Cymbal
+Track names: Kick, Snare, Clap, Perc, Closed Hat, Open Hat, Ride, Cymbal
 
 ## Digitakt II 1-8  
 Control reverb, delay levels, filter frequency, volume and mutes across tracks 1-8  
